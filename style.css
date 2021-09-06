@@ -40,14 +40,13 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
 }
 /* start now min css for in propject */
 .header-section{
-    background-color: rgb(20, 17, 17);
+    background-color: rgb(0,0,0,.5);
     z-index: 99;
     top:0;
     left: 0;
     position: fixed;
     width: 100%;
     position: absolute;
-    opacity: .8;
 }
 .header-logu{
     width: 30%;
